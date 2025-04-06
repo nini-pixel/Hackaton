@@ -2,9 +2,13 @@
 Financial Portfolio Managment Assistant 
 
 **Number of team members:** 4
+
 **Project Name:** A Prototype of Digital Portfolio Management Assistance Services
+
 **Have you used any Google technologies?** Unfortunately, no.
+
 **Have you used the Google Gemini API? (Yes/No)** No.
+
 Describe the problem you identified that could exist in the year 2080:
 
 **The Need for Advisory in Decentralized Finance**
