@@ -9,7 +9,7 @@ Financial Portfolio Managment Assistant
 
 **Have you used the Google Gemini API? (Yes/No)** No.
 
-**Describe the problem you identified that could exist in the year 2080:**
+**Describe the problem you identified that could exist in the year 2080, your proposed solution and a brief summary of your code:**
 
 **The Need for Advisory in Decentralized Finance**
 
