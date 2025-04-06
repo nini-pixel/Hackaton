@@ -9,9 +9,10 @@ Financial Portfolio Managment Assistant
 
 **Have you used the Google Gemini API? (Yes/No)** No.
 
-Describe the problem you identified that could exist in the year 2080:
+**Describe the problem you identified that could exist in the year 2080:**
 
 **The Need for Advisory in Decentralized Finance**
+
 Did you know that in 2016 China released the first nationalized digital currency, the digital Yuan? As speculations rise in the financial industry regarding Bitcoin, its expansion threatens to collapse the commercial banking system as we know it. Imagine this, no more errands at HSBC after work or school and no more fees and charges on your over-the-counter transactions! Digital banks would be backed by central banks which would allow them both the advantages of cryptocurrencies and of mobile banking payments. At PMA.inc, our team decided to address a major setback in this scenario: who would advise us, common citizens, on how to manage our money?
 
 This is why we created a prototype in anticipation of the lack of personalized financial advisory in the latter scenario, where robots and AI would become the norm in managing our bank accounts.
